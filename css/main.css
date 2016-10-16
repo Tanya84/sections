@@ -13,17 +13,23 @@ body {
   margin: 0;
 }
 
+section {
+  text-align: center;
+}
+
 div {
   max-width: 25em;
   display: inline-block;
   vertical-align: middle;
   padding: 1em;
+  text-align: left;
 
 
 }
 
 img {
   width: 100%;
+  display: block;
 }
 
 .btn {
