@@ -24,8 +24,6 @@ div {
   vertical-align: middle;
   padding: 1.5em;
   text-align: left;
-
-
 }
 
 img {
@@ -41,12 +39,10 @@ img {
   border-radius: 7.5px;
   font-size: 1.125rem;
   display: inline-block;
-
 }
 
 .btn:hover {
   border-color: #666;
   background-color: #666;
   color: #fff;
-
 }
